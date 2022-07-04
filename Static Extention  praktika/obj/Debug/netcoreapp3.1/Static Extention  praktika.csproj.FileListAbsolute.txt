@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.exe
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.deps.json
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.runtimeconfig.json
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.dll
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\bin\Debug\netcoreapp3.1\Static Extention  praktika.pdb
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.dll
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.pdb
+C:\Users\ASUS\source\repos\Static Extention  praktika\Static Extention  praktika\Static Extention  praktika\obj\Debug\netcoreapp3.1\Static Extention  praktika.genruntimeconfig.cache
